@@ -25,13 +25,13 @@ const time = process.uptime(),
 		seconds = Math.floor(time % 60);
 const moment = require("moment-timezone");
 var juswa = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
-var link = ["https://i.postimg.cc/fTV8nkJh/20230726-020132.jpg", 
+var link = ["https://imgur.com/a/8g96rmA", 
             
-            "https://i.postimg.cc/cJzJzDjW/Screenshot-20230730-182443.jpg", 
+            "https://imgur.com/a/8g96rmA", 
             
-            "https://i.postimg.cc/N0yxZjDz/Screenshot-20230730-191933.jpg",
+            "https://imgur.com/a/8g96rmA",
 
-"https://i.postimg.cc/W39vdtG7/20230727-235934.jpg",
+"https://imgur.com/a/8g96rmA",
             
             ""];
   
@@ -45,9 +45,9 @@ ________________________________________
 
 💠𝐁𝐎𝐓 𝐍𝐀𝐌𝐄💠 : ${global.config.BOTNAME}
 
-🌼𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍🌼 : 『😽👉 আলভী চৌধুরী 👈😽』
+🌼𝐁𝐎𝐓 𝐀𝐃𝐌𝐈𝐍🌼 : 『😽👉 SUJON BE'VIES 👈😽』
 
-🔥𝐁𝐈𝐎 𝐀𝐃𝐌𝐈𝐍🔥 : [ ⊱༅༎😽💚༅༎⊱
+🔥𝐁𝐈𝐎 𝐀𝐃𝐌𝐈𝐍🔥 : [ ⊱༅༎SUNTE HOBENA༅༎⊱
 
 
 -আমি ভদ্র, বেয়াদব দুটোই🥱✌️
@@ -57,21 +57,21 @@ ________________________________________
 
 ⊱༅༎😽💚༅༎⊱ ]
 
-🏠𝐀𝐃𝐃𝐑𝐄𝐒𝐒🏠 : ঢাকা, বাংলাদেশ
+🏠𝐀𝐃𝐃𝐑𝐄𝐒𝐒🏠 : খুলনা, বাংলাদেশ
 
 _____________🅲🅾🅽🆃🅰🅲🆃_____________
 
-💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❶)💥 : https://www.facebook.com/PINIK.MR.ALVI.CHOWDHURY.YOUR.NEXT.VATAR.XAN
+💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❶)💥 : https://www.facebook.com/sujonbevies
 
-💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❷)💥 : https://www.facebook.com/profile.php?id=100087344957106
+💥𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐈𝐃 (❷)💥 : https://www.facebook.com/profile.php?id=61561264605347
 
 ✴️𝐁𝐎𝐓 𝐏𝐑𝐄𝐅𝐈𝐗✴️ : ${global.config.PREFIX}
 
-❇️𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑✳️ : {🌻𝐌𝐑.𝐁𝐎𝐒𝐒 𝐀𝐋𝐕𝐈 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘
-𝐕𝐈𝐑𝐓𝐔𝐀𝐋 𝐓𝐎𝐏 𝐅𝐌𝐙 𝐊𝐈𝐍𝐆
-𝐘𝐎𝐔'𝐑 𝐍𝐄𝐗𝐓 𝐕𝐀𝐓𝐀𝐑 𝐗𝐀𝐍'𝐒
-𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐌𝐀𝐒𝐓𝐄𝐑
-𝐁𝐀𝐍𝐆𝐋𝐀𝐃𝐄𝐒𝐇 𝐇𝐀𝐓𝐄𝐑𝐒
+❇️𝐁𝐎𝐓 𝐎𝐖𝐍𝐄𝐑✳️ : {🌻SUJON BE'VIES
+PROGRAMMER
+CYBER EXPERT
+RECOVERY EXPEET
+AM EDITOR
 𝐅𝐄𝐄𝐋 𝐓𝐇𝐄 𝐏𝐎𝐖𝐄𝐑 𝐎𝐅
 𝐘𝐎𝐔'𝐑 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐀𝐃🌻} 
 
